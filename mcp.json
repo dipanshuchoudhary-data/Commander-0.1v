@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "local-audio-mcp": {
+      "command": "C:\\Users\\DIPANSHU\\Desktop\\local-audio-mcp\\.venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\DIPANSHU\\Desktop\\local-audio-mcp\\server.py"
+      ]
+    }
+  }
+}
